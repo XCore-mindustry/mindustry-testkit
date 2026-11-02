@@ -1,3 +1,5 @@
+> **Archived.** This project now lives in the XCore monorepo, in [`libs/mindustry-testkit`](https://github.com/XCore-mindustry/xcore/tree/main/libs/mindustry-testkit). Releases continue there with the same package coordinates, tagged `testkit/vX.Y.Z`. Report issues and send pull requests to the monorepo.
+
 # Mindustry Testkit (`mindustry-testkit`)
 
 > A deterministic, headless testing toolkit and client simulator for Mindustry v160 plugins running on Java 25.
